@@ -1,0 +1,17 @@
+# Jekyll output and local caches
+/_site/
+/.jekyll-cache/
+/.sass-cache/
+/.bundle/
+/attached_assets/
+
+# Editor and operating system files
+/.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Replit's local module cache
+/.cache/
+/.agents/
+/.conversation/

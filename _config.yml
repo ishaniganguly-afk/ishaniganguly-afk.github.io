@@ -1,0 +1,27 @@
+title: "Ishani Ganguly | People & Talent Leadership"
+description: "A pop-culture-aware portfolio for Ishani Ganguly, exploring the next chapter in senior People leadership."
+url: "https://ishaniganguly-afk.github.io"
+baseurl: ""
+timezone: "America/Los_Angeles"
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - PLAN.md
+  - README.md
+  - attached_assets
+  - .local
+  - .cache
+  - .conversation
+  - .replit
+  - .replitignore
+  - replit.md
+  - node_modules
+  - vendor
+  - .bundle
